@@ -2181,7 +2181,7 @@ wheels = [
 
 [[package]]
 name = "inline-snapshot"
-version = "0.32.6"
+version = "0.34.1"
 source = { registry = "https://pypi.org/simple" }
 dependencies = [
     { name = "asttokens" },
@@ -2191,9 +2191,9 @@ dependencies = [
     { name = "tomli", marker = "python_full_version < '3.11'" },
     { name = "typing-extensions" },
 ]
-sdist = { url = "https://files.pythonhosted.org/packages/ee/df/d831f0312478b4feb7c3195291071dd13f130176fcdcae2d6d2a2d5fda1d/inline_snapshot-0.32.6.tar.gz", hash = "sha256:224a96eeb86c4b2831d274239d3468dc0b7819264f608f595b2f9d01f79a6e38", size = 2627401, upload-time = "2026-04-10T05:46:22.922Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/b8/2e/00c99468c7788bdb4f7d861bcfbfb091a5fe1bc475f9dd031f667c422a73/inline_snapshot-0.34.1.tar.gz", hash = "sha256:f8af37876c42069b7c0ed73f64357ace482955c3225ebcd27f243197ecfbcb65", size = 2638769, upload-time = "2026-06-05T16:58:47.921Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/f8/c7/8b54418a67ef2b10771a82d03e2b6b69016e5bfb0527fd491884a890e1d6/inline_snapshot-0.32.6-py3-none-any.whl", hash = "sha256:1f8fb6353dff0aa824e00eecf17d53d7d08d36f2167752756ec8ea73f39d7e15", size = 85157, upload-time = "2026-04-10T05:46:21.402Z" },
+    { url = "https://files.pythonhosted.org/packages/ba/83/21747d0ee2276e973a2889e960f2ec904fbbe83fac6fecd8a57995bb81df/inline_snapshot-0.34.1-py3-none-any.whl", hash = "sha256:4c043215866dfdbe6a3ead92d9d0a9294720c7deebddc346dc781654cb19daa9", size = 90039, upload-time = "2026-06-05T16:58:46.038Z" },
 ]
 
 [[package]]
